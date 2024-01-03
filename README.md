@@ -44,3 +44,4 @@ DriverManager로 직접 얻기 또는 커넥션풀에서 얻을 수 있다.
 DriverManager는 DataSource를 구현하지 않았다.
 하지만 DriverManagerDataSource 제공해준다.
 ```
+
